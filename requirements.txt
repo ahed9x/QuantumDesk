@@ -1,0 +1,8 @@
+customtkinter
+psutil
+schedule
+pyautogui
+speedtest-cli
+keyboard
+gputil
+matplotlib
