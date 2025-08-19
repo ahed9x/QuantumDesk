@@ -4,5 +4,9 @@ schedule
 pyautogui
 speedtest-cli
 keyboard
+mouse
 gputil
 matplotlib
+wmi
+cryptography
+requests
