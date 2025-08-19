@@ -17,11 +17,11 @@ QuantumDesk is a Python application designed to provide a comprehensive control 
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone github.com/ahed9x/QuantumDesk
    ```
 2. Navigate to the project directory:
    ```
-   cd QuantumDesk-1
+   cd QuantumDesk
    ```
 3. Install the required dependencies:
    ```
